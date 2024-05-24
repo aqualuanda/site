@@ -1,6 +1,6 @@
 ---
-title: 'Início'
-date: 2023-10-24
+title: 'Home'
+date: 2024-05-24
 type: landing
 
 design:
@@ -86,10 +86,11 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: porto_lobito.png
           button:
-            text: Monitorização ferroviária
-            url: https://hugoblox.com/templates/
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
+            text: Fala connosco
+            url: mailto:equipa@aqualuanda.com
+
+        - title: Monitorização ferroviária
+          text: ponses
           feature_icon: bolt
           features:
             - "Dedicated support channel"
