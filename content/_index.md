@@ -90,17 +90,17 @@ sections:
             url: mailto:equipa@aqualuanda.com
 
         - title: Monitorização ferroviária
-          text: ponses
+          text: Garantir que equipamento crítico como postos de transformação, equipamento de comunicação e segurança de perímetros em locais como parques de transportes e estações são monitorizados
           feature_icon: bolt
           features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+            - "Ligação autónoma baseada em rádio LoRa"
+            - "Alarmes para entrada não autorizada de pessoas em locais de remoto acesso/móvel"
+            - "Reduz criminalidade por furto de material e danos na infraestrutura"
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+            text: Fala connosco
+            url: mailto:equipa@aqualuanda.com
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
