@@ -97,7 +97,7 @@ sections:
             - "Alarmes para entrada não autorizada de pessoas em locais de remoto acesso/móvel"
             - "Reduz criminalidade por furto de material e danos na infraestrutura"
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
+          image: lora-station.jpg
           button:
             text: Fala connosco
             url: mailto:equipa@aqualuanda.com
