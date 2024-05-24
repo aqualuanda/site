@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
+    description: 'A página oficial da Aqua Luanda, uma empresa dedicada a logística marítima e transportes'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -39,15 +39,15 @@ header:
       filename: "logo.svg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "Fala connosco"
+      url: "mailto:equipa@aqualuanda.com"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} Aqua Luanda'
 
 # Localization
 locale:
