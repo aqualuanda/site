@@ -61,15 +61,15 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: Projectos
+      text: Os projectos que temos em construção 🧱
       items:
-        - name: Optimized SEO
+        - name: Monitorização marítima
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Rastreamento de cardumes e volume de pesca nos portos marítimos
+        - name: Acessos API
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
+          description: Acesso super-rápido a informação lógistica através de API que alimentam apps de telemóvel
         - name: Easy
           icon: sparkles
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
@@ -125,15 +125,15 @@ sections:
           text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
     design:
       spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
+        # Reduce bottom spacing so theo testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: Entre em contacto connosco
+      text: Tão fácil como 1.. 2.. 3..
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Contactar
+        url: mailto:equipa@aqualuanda.com
     design:
       card:
         # Card background color (CSS class)
