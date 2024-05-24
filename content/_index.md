@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Início'
 date: 2023-10-24
 type: landing
 
@@ -10,19 +10,12 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+      title: Aqua Luanda
+      text: O próximo passo na evolução marítima!
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Estamos em fase beta de lançamento"
         link:
-          text: "Read more"
+          text: "Ler mais"
           url: "/blog/"
     design:
       spacing:
@@ -42,16 +35,13 @@ sections:
       items:
         - statistic: "1M+"
           description: |
-            Websites built  
-            with Hugo Blox
+            Toneladas de peixe em Angola no ano passado
         - statistic: "10k+"
           description: |
-            GitHub stars  
-            since 2016
+            Embarcações que desembarcaram nos portos
         - statistic: "3k+"
           description: |
-            Discord community  
-            for support
+            Espaços a retalho para venda de peixe
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -61,32 +51,32 @@ sections:
   - block: features
     id: features
     content:
-      title: Projectos
-      text: Os projectos que temos em construção 🧱
+      title: Sumário
+      text: O que define a nossa empresa?
       items:
         - name: Monitorização marítima
           icon: magnifying-glass
           description: Rastreamento de cardumes e volume de pesca nos portos marítimos
-        - name: Acessos API
-          icon: bolt
-          description: Acesso super-rápido a informação lógistica através de API que alimentam apps de telemóvel
-        - name: Easy
+        - name: Monitorização ferroviária
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+          description: Rastreamento da infraestrutura crítica para reduzir criminalidade por vandalismo ou responder às necessidades dos produtores agrícolas
+        - name: Acessos API
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          description: Acesso super-rápido a informação lógistica através de API que alimentam apps de telemóvel
+        - name: Desenvolvimento interno
+          icon: bolt
+          description: Código 100% construído em Angola
+        - name: Apreciado
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: Mencionados com frequência na TV, radio e governo pelo esforço que desenvolvemos
+        - name: Abertos a parcerias
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Tens um projecto relevante nesta área? Fala connosco, vamos agregar valor juntos. :-)
   - block: cta-image-paragraph
     id: solutions
     content:
       items:
-        - title: Build your future-proof website
+        - title: Monitorização marítima
           text: As easy as 1, 2, 3!
           feature_icon: check
           features:
@@ -118,11 +108,11 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
+        - name: "Hamilton Chissuco"
+          role: "Voz principal na Aqua Luanda"
           # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+          image: "pic1.jpg"
+          text: "Temos uma hipótese de desenvolver o futuro de Angola com Angola. Vamos em frente!"
     design:
       spacing:
         # Reduce bottom spacing so theo testimonial appears vertically centered between sections
@@ -130,7 +120,7 @@ sections:
   - block: cta-card
     content:
       title: Entre em contacto connosco
-      text: Tão fácil como 1.. 2.. 3..
+      text: Tão fácil como 1, 2, 3
       button:
         text: Contactar
         url: mailto:equipa@aqualuanda.com
