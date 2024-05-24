@@ -84,7 +84,7 @@ sections:
             - "Informar através de app a quantidade e tipo de peixe desembarcado no porto"
             - "Acesso à informação em tempo real"
           # Upload image to `assets/media/` and reference the filename here
-          image: porto_lobito.png
+          image: barco-pesca-1.jpg
           button:
             text: Fala connosco
             url: mailto:equipa@aqualuanda.com
